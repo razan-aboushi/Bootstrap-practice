@@ -1,0 +1,8 @@
+.hero-section-bg{
+    background: linear-gradient(to right, rgba(45, 48, 51, 0.55), rgba(45, 48, 51, 0.55)), 
+    url(../Herosection.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+}
